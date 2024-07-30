@@ -1,5 +1,5 @@
-Welcome
+Selamat datang
 
-This resource was created by Ethan Peacock
+Sumber daya ini dibuat oleh Ethan Peacock
 
-You can find details at: https://forum.fivem.net/t/release-progress-bars-1-0/526287/9
+Anda dapat menemukan detailnya di: https://forum.fivem.net/t/release-progress-bars-1-0/526287/9
